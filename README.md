@@ -1,4 +1,4 @@
-# Getting Started Calculator-React-App
+### Calculator-React-App
 
 ### Live Demo : https://adityalad-25.github.io/Calculator-In-React/
 
