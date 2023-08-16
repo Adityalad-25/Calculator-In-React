@@ -1,7 +1,10 @@
 # Getting Started Calculator-React-App
 
 
-<img width="500" alt="Screenshot 2023-08-16 at 5 34 24 PM" src="https://github.com/Adityalad-25/Calculator-In-React/assets/97255480/af8f3bfe-7f2f-49ca-9c11-868456549b59">
+<img width="500" alt="Screenshot 2023-08-16 at 8 35 20 PM" src="https://github.com/Adityalad-25/Calculator-In-React/assets/97255480/9fbc8fb2-2360-4b20-b422-15dc52b05916">
+
+
+
 
 ## Available Scripts
 
